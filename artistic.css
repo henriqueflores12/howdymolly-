@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  background-image: url(http://terrazzco.com/new/wp-content/uploads/2019/07/Terrazzo-Tile-Flooring.jpg);
+  flex-direction: row;
+}
+#content {
+  border-style: double;
+  height: 300px;
+  width: 700px;
+  display: grid;
+  margin-top: 0mm;
+  margin-left: 130mm;
+  background-color: whitesmoke;
+}
+#title {
+  margin-left: 50mm;
+  margin-top: 10mm;
+  font-size: 14mm;
+  height: 200px;
+}
+#note {
+  font-size: 40px;
+  color: yellow;
+  border-style: double;
+  border-color: red;
+  background-color: black;
+  height: 50px;
+  margin-bottom: 200px;
+  margin-left: 40mm;
+  margin-right: 40mm;
+  text-align: center;
+}
+#company {
+  margin: 0;
+  text-align: center;
+  font-style: oblique;
+  font-size: 50mm;
+}
